@@ -2,7 +2,7 @@ test
 hi this is raki
 <<<<<<< HEAD
 ok
-
+edit ok
 ok
 
 =======
